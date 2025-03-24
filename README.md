@@ -20,9 +20,9 @@ The **Data Sweeper App** is a simple yet powerful web application built using **
 - **Download processed files**: Easily save the cleaned and converted data.
 
 ## 🛠 How to Use
-1. **Run the App**
+1. ** 📂 Live Demo **
    ```sh
-   streamlit run app.py
+   🔗  https://mhdawaisrajput-data-sweeper-app-by-streamlit-main-el0jmv.streamlit.app/
    ```
 2. **Upload a file** (CSV or Excel).
 3. **Preview** the dataset and select cleaning options.
